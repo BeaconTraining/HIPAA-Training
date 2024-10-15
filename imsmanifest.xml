@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<manifest identifier="AXtjuR2a00-hkyF4Ge9xSbT8SQUn77xawMAF0LxN" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Beacon: HIPAA Training for Dental Healthcare Providers 4.0</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Beacon: HIPAA Training for Dental Healthcare Providers 4.0</title>
+        <adlcp:datafromlms>eyJjcHYiOiJ3TUFGMEx4TiIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/6c57c246.js" />
+<file href="scormcontent/lib/rise/472f74c2.css" />
+<file href="scormcontent/lib/rise/5d3e1ec8.js" />
+<file href="scormcontent/lib/rise/669a7a0d.css" />
+<file href="scormcontent/lib/rise/1cc779ba.js" />
+<file href="scormcontent/lib/rise/92e0d0dc.js" />
+<file href="scormcontent/lib/rise/daebe3b0.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/cee15070.js" />
+<file href="scormcontent/lib/mondrian/be408434.js" />
+<file href="scormcontent/lib/mondrian/08509366.js" />
+<file href="scormcontent/lib/mondrian/c16e7dd3.js" />
+<file href="scormcontent/lib/mondrian/d7134136.js" />
+<file href="scormcontent/lib/mondrian/56ed4fc1.js" />
+<file href="scormcontent/lib/mondrian/617890ed.js" />
+<file href="scormcontent/lib/mondrian/b1be0899.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato-Bold.woff" />
+<file href="scormcontent/lib/fonts/Lato-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/_IasvX/small.png" />
+<file href="scormcontent/assets/rczLCo/small.png" />
+<file href="scormcontent/assets/small_1584740173.png" />
+<file href="scormcontent/assets/SrwtDyoa40MLwJ6k.jpg" />
+<file href="scormcontent/assets/bigstock-Surgeon-And-Nurse-During-A-Den-459299283.jpg" />
+<file href="scormcontent/assets/HIPAA%20Introduction.mp3" />
+<file href="scormcontent/assets/dentist-talking-with-female-patient-in-dental-clin-2022-05-11-00-33-37-utc.jpg" />
+<file href="scormcontent/assets/Q0IYog/mountains.jpg" />
+<file href="scormcontent/assets/lawyer-male-notary-working-in-a-courtroom-office-2023-01-18-04-53-47-utc.jpg" />
+<file href="scormcontent/assets/friendly-female-dentist-working-with-child-in-dent-2023-06-16-00-08-25-utc.jpg" />
+<file href="scormcontent/assets/close-up-of-dentist-using-dental-curing-light-duri-2022-11-09-03-48-52-utc.jpg" />
+<file href="scormcontent/assets/who%20enforces%20hipaa.mp3" />
+<file href="scormcontent/assets/doctor-and-senior-patient-discussing-on-clipboard-2021-08-28-17-22-02-utc.jpg" />
+<file href="scormcontent/assets/male-lawyer-or-judge-working-with-law-books-2022-11-15-15-28-07-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Hand-Of-Man-Search-Files-Docum-393967175.jpg" />
+<file href="scormcontent/assets/designated%20record%20sets.mp3" />
+<file href="scormcontent/assets/male-dentist-showing-tablet-to-female-patient-2022-01-20-19-45-36-utc.jpg" />
+<file href="scormcontent/assets/doctor-working-at-desk-in-office-2021-09-24-03-52-04-utc.jpg" />
+<file href="scormcontent/assets/professional-psychologist-taking-notes-at-couple-m-2022-12-16-09-23-41-utc.jpg" />
+<file href="scormcontent/assets/dentistry-nurse-sitting-at-desk-typing-on-computer-2021-09-22-21-50-15-utc.jpg" />
+<file href="scormcontent/assets/medical-records-charts-african-american-man-sort-2021-09-02-15-10-11-utc.jpg" />
+<file href="scormcontent/assets/hands-of-unrecognizable-african-american-pediatric-2021-08-29-23-01-43-utc.jpg" />
+<file href="scormcontent/assets/Policies%20and%20Procedures.mp3" />
+<file href="scormcontent/assets/bigstock-medicine-people-and-healthcar-365941258.jpg" />
+<file href="scormcontent/assets/portrait-of-young-dentists-discussing-work-togethe-2021-08-29-11-43-33-utc.jpg" />
+<file href="scormcontent/assets/group-of-doctors-at-medical-conference-2021-09-24-04-19-18-utc.jpg" />
+<file href="scormcontent/assets/Adminstrative%20area.mp3" />
+<file href="scormcontent/assets/healthcare-colleagues-discussing-notes-in-hospital-2021-08-26-16-14-58-utc.jpg" />
+<file href="scormcontent/assets/dentist-with-digital-tablet-showing-teeth-treatmen-2022-01-05-15-44-28-utc.jpg" />
+<file href="scormcontent/assets/medical-seminar-2021-09-24-04-19-25-utc.jpg" />
+<file href="scormcontent/assets/african-lady-smiling-to-doctor-at-dentist-chair-2021-08-28-11-04-34-utc.jpg" />
+<file href="scormcontent/assets/bigstock--177684106.jpg" />
+<file href="scormcontent/assets/computer-security-technology-2021-09-02-06-42-33-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Primary-care-physician-typing--243758692.jpg" />
+<file href="scormcontent/assets/dentist-looking-at-teeth-x-ray-on-the-computer-in-2021-08-28-04-58-42-utc.jpg" />
+<file href="scormcontent/assets/dentist-and-patient-talking-about-treatments-in-a-2022-05-17-02-00-54-utc.jpg" />
+<file href="scormcontent/assets/dentist-with-patient-at-hospital-2021-08-29-21-25-47-utc.jpg" />
+<file href="scormcontent/assets/female-dentist-in-latex-gloves-and-mask-examining-2021-09-14-21-15-24-utc.jpg" />
+<file href="scormcontent/assets/dentist-in-mask-turning-on-lamp-before-making-chec-2022-02-02-04-48-53-utc.jpg" />
+<file href="scormcontent/assets/the%20omnibus%20rule.mp3" />
+<file href="scormcontent/assets/male-doctor-or-dentist-writing-report-working-with-2021-08-30-22-09-25-utc.jpg" />
+<file href="scormcontent/assets/doctors-talking-while-standing-in-hospital-2021-12-23-01-37-03-utc.jpg" />
+<file href="scormcontent/assets/two-doctors-holding-diagnosis-and-discussing-in-ho-2021-09-22-00-01-47-utc.jpg" />
+<file href="scormcontent/assets/bigstock-dentist-and-his-assistants-are-43444879.jpg" />
+<file href="scormcontent/assets/young-assistant-or-clinician-in-protective-workwea-2021-09-24-03-33-17-utc.jpg" />
+<file href="scormcontent/assets/female-hand-typing-on-keyboard-2021-09-05-18-26-38-utc.jpg" />
+<file href="scormcontent/assets/doctor-writing-on-file-while-sitting-on-chair-agai-2021-08-28-16-46-09-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Officer-Searching-Unfinished-D-429453569.jpg" />
+<file href="scormcontent/assets/administrative%20simplification%20rules.mp3" />
+<file href="scormcontent/assets/dentist-explaining-the-details-of-the-x-ray-to-his-2021-09-04-02-43-43-utc.jpg" />
+<file href="scormcontent/assets/doctors-with-jaw-x-ray-on-tablet-pc-at-clinic-2021-08-26-22-49-35-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Attractive-Dentist-Writing-Whi-315786070.jpg" />
+<file href="scormcontent/assets/female-doctor-showing-mature-male-patient-test-res-2021-08-26-16-15-23-utc.jpg" />
+<file href="scormcontent/assets/Covered%20Entity.mp3" />
+<file href="scormcontent/assets/bigstock-Patient-Having-Consultation-Wi-401671280.jpg" />
+<file href="scormcontent/assets/dentists-with-a-patient-during-a-dental-interventi-2021-08-27-22-49-32-utc.jpg" />
+<file href="scormcontent/assets/close-up-of-physician-woman-nurse-hand-analyzing-s-2021-09-03-02-34-24-utc.jpg" />
+<file href="scormcontent/assets/female-dentist-in-mask-standing-near-coworker-with-2021-08-30-01-27-06-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Medicine-Doctor-Writing-Docume-369012556.jpg" />
+<file href="scormcontent/assets/doctor-writing-in-document-at-office-2021-08-28-00-11-54-utc.jpg" />
+<file href="scormcontent/assets/healthcare-dentistry-medicine-male-doctor-dentist-2021-12-13-15-41-35-utc.jpg" />
+<file href="scormcontent/assets/covered%20entities.mp3" />
+<file href="scormcontent/assets/nurse-in-retirement-home-2021-12-09-15-20-16-utc.jpg" />
+<file href="scormcontent/assets/dental-surgeon-with-dental-crown-in-hands-model-ta-2022-01-11-00-29-18-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Doctor-Or-Pharmacist-Is-Workin-368383510.jpg" />
+<file href="scormcontent/assets/young-bearded-doctor-in-a-white-robe-making-notes-2021-09-04-09-19-21-utc.jpg" />
+<file href="scormcontent/assets/health-care-worker-talking-to-sick-senior-patient-2021-08-26-15-46-16-utc.jpg" />
+<file href="scormcontent/assets/What%20is%20standard.mp3" />
+<file href="scormcontent/assets/multiracial-dental-team-checking-teeth-x-ray-of-pa-2022-01-19-18-57-01-utc.jpg" />
+<file href="scormcontent/assets/dentist-and-patient-talking-to-each-other-2021-09-03-20-18-14-utc.jpg" />
+<file href="scormcontent/assets/coworking-dentists-exploring-x-ray-on-computer-2021-08-26-19-52-38-utc.jpg" />
+<file href="scormcontent/assets/patient-visiting-the-doctor-2021-08-26-19-52-25-utc.jpg" />
+<file href="scormcontent/assets/doctor-hands-typing-on-a-laptop-in-a-medical-offic-2021-09-03-10-35-51-utc.jpg" />
+<file href="scormcontent/assets/dentist-looking-at-the-picture-of-teeth-2022-01-27-22-55-54-utc.jpg" />
+<file href="scormcontent/assets/two-doctors-talking-as-they-walk-through-modern-ho-2021-08-26-16-12-56-utc.jpg" />
+<file href="scormcontent/assets/two-doctors-looking-at-x-rays-2021-11-16-16-25-38-utc.jpg" />
+<file href="scormcontent/assets/dentists-looking-x-ray-and-discussing-2021-08-26-16-53-24-utc.jpg" />
+<file href="scormcontent/assets/Privacy%20Standard.mp3" />
+<file href="scormcontent/assets/positive-delighted-patient-looking-at-roentgen-of-2021-09-03-10-50-34-utc.jpg" />
+<file href="scormcontent/assets/modern-dental-2021-09-03-16-13-56-utc.jpg" />
+<file href="scormcontent/assets/doctor-and-nurse-reviewing-patient-information-on-2021-08-26-15-53-30-utc.jpg" />
+<file href="scormcontent/assets/professional-stomatologist-doctor-consult-patient-2021-09-02-20-29-28-utc.jpg" />
+<file href="scormcontent/assets/Transaction%20and%20Code%20Set%20Standards.mp3" />
+<file href="scormcontent/assets/the-assistant-and-the-dentist-talk-to-a-patient-du-2022-03-13-03-39-41-utc.jpg" />
+<file href="scormcontent/assets/smiling-client-shaking-hands-with-doctor-in-office-2021-08-29-22-49-46-utc.jpg" />
+<file href="scormcontent/assets/senior-couple-having-consultation-with-male-doctor-2021-08-26-16-13-32-utc.jpg" />
+<file href="scormcontent/assets/doctor-and-patient-having-meeting-in-hospital-rece-2021-08-26-16-12-59-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Two-serious-doctors-in-medical-417671359%20%281%29.jpg" />
+<file href="scormcontent/assets/doctor-writing-out-prescription-2021-11-12-19-51-29-utc.jpg" />
+<file href="scormcontent/assets/anonymous-doctor-writing-on-clipboard-filling-pat-2021-12-09-17-31-12-utc%20%281%29.jpg" />
+<file href="scormcontent/assets/bigstock-Doctor-Team-Working-At-Compute-341325922.jpg" />
+<file href="scormcontent/assets/a-woman-holding-money-2021-09-02-14-52-31-utc.jpg" />
+<file href="scormcontent/assets/dentist-sitting-by-computer-at-table-2021-08-28-16-46-04-utc.jpg" />
+<file href="scormcontent/assets/dentist-working-on-the-computer-2021-11-12-22-20-49-utc.jpg" />
+<file href="scormcontent/assets/How%20to%20Report%20an%20Incident.mp3" />
+<file href="scormcontent/assets/dentist-and-assistant-talking-with-patient-in-dent-2022-05-30-22-50-25-utc.jpg" />
+<file href="scormcontent/assets/dentist-with-coverall-looking-at-camera-talking-wi-2021-08-29-15-49-47-utc.jpg" />
+<file href="scormcontent/assets/Information%20Security.mp3" />
+<file href="scormcontent/assets/medical-nurse-examining-patient-in-paing-writing-d-2021-10-27-20-25-14-utc.jpg" />
+<file href="scormcontent/assets/at-the-dentist-2021-08-29-16-29-27-utc.jpg" />
+<file href="scormcontent/assets/Technological%20Availability%20and%20Security.mp3" />
+<file href="scormcontent/assets/hispanic-female-dentist-working-on-a-laptop-comput-2021-08-28-07-51-49-utc.jpg" />
+<file href="scormcontent/assets/female-dentist-with-dentist-photopolymer-lamp-2022-05-09-23-23-07-utc.jpg" />
+<file href="scormcontent/assets/young-creative-male-designer-in-protective-mask-wo-2021-09-24-03-40-36-utc.jpg" />
+<file href="scormcontent/assets/senior-doctor-using-tablet-2021-09-24-04-03-02-utc.jpg" />
+<file href="scormcontent/assets/professional-medical-worker-typing-information-abo-2021-08-30-00-04-42-utc.jpg" />
+<file href="scormcontent/assets/african-american-with-toothache-seeking-medical-st-2021-12-09-22-29-43-utc.jpg" />
+<file href="scormcontent/assets/dentistry-doctor-interrogating-patient-and-taking-2021-08-29-23-04-35-utc.jpg" />
+<file href="scormcontent/assets/dentists-discussing-case-in-clinic-2021-09-24-04-09-37-utc%20%281%29.jpg" />
+<file href="scormcontent/assets/portrait-of-a-female-dentist-doctor-talking-on-mo-2022-02-03-02-06-05-utc.jpg" />
+<file href="scormcontent/assets/telemedicine-2022-02-22-06-39-42-utc.jpg" />
+<file href="scormcontent/assets/bigstock-Medical-Team-Discussing-Around-434521703.jpg" />
+<file href="scormcontent/assets/using-laptop-2021-10-09-17-35-11-utc.jpg" />
+<file href="scormcontent/assets/breach.mp3" />
+<file href="scormcontent/assets/female-dark-haired-doctor-in-eyewear-looking-serio-2021-09-04-09-21-39-utc.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/who%20enforces%20breach%20regulations.mp3" />
+<file href="scormcontent/assets/doctor-nurse-dentist-sitting-in-the-office-using-a-2022-06-21-20-54-49-utc.jpg" />
+<file href="scormcontent/assets/banknotes-us-currency-with-an-american-flag-backgr-2021-09-04-10-27-16-utc.jpg" />
+<file href="scormcontent/assets/employees-are-doing-corruption-by-giving-dirty-mon-2021-09-03-12-54-02-utc.jpg" />
+<file href="scormcontent/assets/judge-gavel-and-money-on-brown-wooden-table-2021-08-30-04-40-19-utc.jpg" />
+<file href="scormcontent/assets/judge-gavel-at-the-judicial-office-for-judicial-ma-2021-09-03-12-51-11-utc%20%281%29.jpg" />
+<file href="scormcontent/assets/female-dentist-consulting-patient-2022-03-02-12-01-13-utc.jpg" />
+<file href="scormcontent/assets/dentists-team-analyzing-scan-of-patient-teeth-2022-05-30-22-40-50-utc.jpg" />
+<file href="scormcontent/assets/group-of-doctors-having-meeting-2021-11-17-17-41-51-utc%20%281%29.jpg" />
+<file href="scormcontent/assets/locking-entrance-door-with-a-smart-phone-2021-09-01-14-47-46-utc.jpg" />
+<file href="scormcontent/assets/dentist-checking-jaw-x-ray-2021-08-30-04-02-56-utc.jpg" />
+<file href="scormcontent/assets/doctor-in-medical-gown-and-gloves-typing-on-laptop-2021-11-30-02-23-34-utc.jpg" />
+<file href="scormcontent/assets/Disclosure%20of%20Information.mp3" />
+<file href="scormcontent/assets/male-dentist-is-treating-woman-stock-photo-2021-09-03-16-01-04-utc.jpg" />
+<file href="scormcontent/assets/bigstock--207998143.jpg" />
+<file href="scormcontent/assets/substance%20abuse.mp3" />
+<file href="scormcontent/assets/bigstock-Doctor-Health-Care-Questions-I-408901049.jpg" />
+<file href="scormcontent/assets/dentist-makes-surgery-to-woman-dental-clinic-2021-08-26-16-27-04-utc.jpg" />
+<file href="scormcontent/assets/Notice-of-Privacy-Practices-.mp3" />
+<file href="scormcontent/assets/physician-and-patient-discussing-x-ray-in-the-clin-2023-09-19-04-11-51-utc.jpg" />
+<file href="scormcontent/assets/P_iS3F/stock-image.jpg" />
+<file href="scormcontent/assets/dentist-and-patient-2021-08-26-18-29-35-utc.jpg" />
+<file href="scormcontent/assets/MrEKdr/stock-image.jpg" />
+<file href="scormcontent/assets/Patient-Rights-Regarding-Amending.mp3" />
+<file href="scormcontent/assets/modern-technology-and-x-rays-in-dental-office-2021-08-29-23-01-14-utc.jpg" />
+<file href="scormcontent/assets/male-doctor-puts-a-photopolymer-filling-on-a-patie-2023-09-19-18-39-40-utc.jpg" />
+<file href="scormcontent/assets/dentist-explaining-x-ray-picture-to-patient-on-led-2021-08-26-18-19-45-utc.jpg" />
+<file href="scormcontent/assets/selective-focus-of-african-american-dentist-in-med-2021-08-31-03-38-45-utc.jpg" />
+<file href="scormcontent/assets/The-Genetic-Information-Nondiscrimination-Act.mp3" />
+<file href="scormcontent/assets/bigstock-Male-Dentist-Wearing-Medical-F-433255847.jpg" />
+<file href="scormcontent/assets/doctor-making-test-with-blood-samples-2021-08-27-20-54-03-utc.jpg" />
+<file href="scormcontent/assets/charming-lady-analyzing-patient-data-and-current-i-2021-09-03-15-36-00-utc.jpg" />
+<file href="scormcontent/assets/doctor-and-patient-meeting-in-the-office-2021-08-26-22-39-50-utc.jpg" />
+<file href="scormcontent/assets/smiling-female-dentist-writing-down-man-complains-2021-09-03-21-02-50-utc.jpg" />
+<file href="scormcontent/assets/dentist-doing-surgery-procedure-2023-03-03-00-14-36-utc.jpg" />
+<file href="scormcontent/assets/a-portrait-of-a-dentist-with-his-team-working-2022-05-10-13-56-45-utc.jpg" />
+<file href="scormcontent/assets/the-dentist-shows-the-x-ray-of-the-teeth-on-the-co-2022-03-24-01-06-34-utc.jpg" />
+<file href="scormcontent/assets/female-dentist-reading-x-ray-and-writing-notes-2021-09-03-07-04-03-utc.jpg" />
+<file href="scormcontent/assets/meet-dentist-2021-11-11-17-51-13-utc.jpg" />
+<file href="scormcontent/assets/dentist-explaining-tooth-x-rays-to-a-patient-2022-05-11-00-16-01-utc.jpg" />
+<file href="scormcontent/assets/dentist-writing-something-in-medical-record-2021-08-27-09-41-16-utc.jpg" />
+<file href="scormcontent/assets/doctor-dentist-sitting-in-the-office-using-a-lapto-2022-06-08-15-26-30-utc.jpg" />
+<file href="scormcontent/assets/man-at-dental-check-up-patient-at-the-dentist-s-a-2022-01-11-00-30-33-utc.jpg" />
+<file href="scormcontent/assets/side-view-of-dentist-using-computer-at-clinic-2022-05-25-22-06-04-utc.jpg" />
+<file href="scormcontent/assets/dentist-and-patient-with-protective-goggles-2022-01-20-19-45-36-utc.jpg" />
+<file href="scormcontent/assets/dentist-in-clinic-2021-08-29-21-25-47-utc.jpg" />
+<file href="scormcontent/assets/HXpmAqtMz-dTC1m7.png" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
